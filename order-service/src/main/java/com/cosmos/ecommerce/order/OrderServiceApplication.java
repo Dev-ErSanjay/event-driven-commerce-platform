@@ -1,4 +1,4 @@
-package com.cosmos.ecommerce;
+package com.cosmos.ecommerce.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
