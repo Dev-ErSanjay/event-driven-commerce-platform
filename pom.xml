@@ -13,6 +13,9 @@
 	<artifactId>event-driven-commerce-platform</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<modules>
+		<module>common-library</module>
+	</modules>
 	<name />
 	<description />
 	<url />
