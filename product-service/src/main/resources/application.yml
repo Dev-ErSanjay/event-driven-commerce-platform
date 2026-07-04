@@ -1,6 +1,18 @@
+server:
+  port: 8085
+
 spring:
   application:
     name: product-service
 
-server:
-  port: 8082
+
+aws:
+  region: ap-south-1
+
+  dynamodb:
+    table:
+      product: products
+
+  s3:
+    bucket:
+      product: ecommerce-product-images
